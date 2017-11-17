@@ -1,0 +1,14 @@
+{
+  "name": "LibrarianAPI",
+  "version": "1.0.0",
+  "description": "Project for managing collections of books",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Dickson",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}

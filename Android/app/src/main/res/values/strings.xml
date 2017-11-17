@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Librarian</string>
+    <string name="book_list_url">http://librarian.imposterstudios.io/listall</string>
+    <string name="book_count_url">http://librarian.imposterstudios.io/count</string>
+    <string name="book_add_url">http://librarian.imposterstudios.io/add</string>
+    <string name="book_delete_url">http://librarian.imposterstudios.io/delete</string>
+    <string name="book_edit_url">http://librarian.imposterstudios.io/edit</string>
+</resources>
